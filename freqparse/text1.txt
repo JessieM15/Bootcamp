@@ -1,0 +1,7 @@
+total 20
+drwxrwxr-x. 2 admin admin   67 Jun 20 19:21 .
+drwxrwxr-x. 5 admin admin   79 Jun 20 18:34 ..
+-rwxrwxr-x. 1 admin admin 8562 Jun 20 19:10 a.out
+-rw-rw-r--. 1 admin admin  568 Jun 20 19:10 freqparse.c
+-rw-rw-r--. 1 admin admin    0 Jun 20 19:21 text1.txt
+-rw-rw-r--. 1 admin admin   11 Jun 20 19:07 text.txt
