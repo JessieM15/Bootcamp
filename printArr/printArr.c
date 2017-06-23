@@ -3,9 +3,12 @@
 // printArray goes here
 void printArray(int a[], int size){
   int i;
+  int* curloc = a;
+
   for (i = 0; i < size; i++) {
     /* code */
-    printf("%d\n", a[i]);
+    printf("%d\n", *curloc);
+    curloc++; // increment current location after print step
   }
 }
 
